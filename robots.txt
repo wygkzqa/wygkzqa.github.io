@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://wygkzqa.github.io/sitemap.xml
+Sitemap: https://wygkzqa.github.io/paste-lite/sitemap.xml
